@@ -836,3 +836,5 @@ Make sure to replace placeholders such as ${CLUSTER_NAME}, ${ARM_AMI_ID}, ${AMD_
 kubectl apply -f nodepool.yaml
 ```
 This README provides comprehensive steps for installing Karpenter and configuring it for your Kubernetes cluster. Adjust any placeholders as needed for your specific environment and use cases.
+
+
